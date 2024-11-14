@@ -1,0 +1,80 @@
+Arch: win64
+CompatData: ''
+Creation_Date: '2024-11-14 04:54:55.893626'
+Custom_Path: false
+DLL_Overrides: {}
+DXVK: dxvk-2.4
+Environment: Application
+Environment_Variables: {}
+External_Programs: {}
+Installed_Dependencies:
+- arial32
+- times32
+- courie32
+- mono
+- gecko
+Language: sys
+LatencyFleX: latencyflex-v0.1.1
+NVAPI: dxvk-nvapi-v0.7.1
+Name: Apps
+Parameters:
+    custom_dpi: 96
+    decorated: true
+    discrete_gpu: false
+    dxvk: true
+    dxvk_nvapi: false
+    fixme_logs: false
+    fsr: false
+    fsr_quality_mode: none
+    fsr_sharpening_strength: 2
+    fullscreen_capture: false
+    gamemode: false
+    gamescope: false
+    gamescope_borderless: false
+    gamescope_fps: 0
+    gamescope_fps_no_focus: 0
+    gamescope_fullscreen: true
+    gamescope_game_height: 0
+    gamescope_game_width: 0
+    gamescope_scaling: false
+    gamescope_window_height: 0
+    gamescope_window_width: 0
+    latencyflex: false
+    mangohud: false
+    mouse_warp: true
+    obsvkc: false
+    pulseaudio_latency: false
+    renderer: gl
+    sandbox: false
+    sync: wine
+    take_focus: false
+    use_be_runtime: true
+    use_eac_runtime: true
+    use_runtime: false
+    use_steam_runtime: false
+    versioning_automatic: false
+    versioning_compression: false
+    versioning_exclusion_patterns: false
+    virtual_desktop: false
+    virtual_desktop_res: 1280x720
+    vkbasalt: false
+    vkd3d: true
+    vmtouch: false
+    vmtouch_cache_cwd: false
+Path: Apps
+Runner: caffe-9.2
+RunnerPath: ''
+Sandbox:
+    share_net: false
+    share_sound: false
+State: 0
+Uninstallers: {}
+Update_Date: '2024-11-14 05:18:34.065406'
+VKD3D: vkd3d-proton-2.13
+Versioning: false
+Versioning_Exclusion_Patterns: []
+Windows: win10
+WorkingDir: ''
+data: {}
+run_in_terminal: false
+session_arguments: ''
