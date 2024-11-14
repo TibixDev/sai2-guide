@@ -72,7 +72,7 @@ Once the bottle has been created, we need to change the runner.
 
 ## 6. Configuring Sai
 To fix tablet pressure sensitivity, and random errors popping up, we need to configure a few options
-- Start Sai by hitting the **Play** button on the added Program entry (Or by using the Desktop Entry/Library Entry if you added it, )
+- Start Sai by hitting the **Play** button on the added Program entry (Or by using the Desktop Entry/Library Entry if you've added it)
 <p align="center">
   <img width="460" src="img/6_start.png">
 </p>
