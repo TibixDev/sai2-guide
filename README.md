@@ -112,3 +112,9 @@ To fix tablet pressure sensitivity, and random errors popping up, we need to con
     - Fullscreen Sai using F11 to remove the titlebar
 - When creating a new canvas, if Sai is not on the primary monitor it may not render the canvas. In this case, switch the window to fullscreen and then back to windowed to re-render the canvas.
 - If you want to skip a few of these steps and you're familiar with Bottles, you may import `sai.yml` and start from there
+
+## Known Issues on Linux Mint with Bottles (Flatpak)
+
+If you're using Linux Mint and encounter problems running applications in Bottles installed via Flatpak (e.g., errors when launching Paint Tool SAI), refer to the following guide for a workaround:
+
+https://www.virtualcuriosities.com/articles/1911/bottles-doesnt-work-on-linux-mint-because-its-a-flatpak
