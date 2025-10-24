@@ -51,6 +51,9 @@ Once the bottle has been created, we need to change the runner.
 
 ## 5. Running Sai
 - Download and extract **Paint Tool Sai 2 64bit** (currently `SAI2 64bit - 2024-08-14 Technical Preview`) from [SYSTEMAX](https://www.systemax.jp/en/sai/devdept.html)
+
+- In Bottles, click the top right `...` menu, `Browse Files...`, create a new folder, and move the extracted Sai 2 files into the new folder
+
 - Click **+ Add Shortcuts...**
 <p align="center">
   <img width="460" src="img/5_add_shortcut.png">
@@ -110,6 +113,7 @@ To fix tablet pressure sensitivity, and random errors popping up, we need to con
 - Putting Sai into fullscreen mode can cause an offset on the mouse. To avoid this:
     - Increase the size of the window to fit the screen instead of making it fullscreen 
     - Fullscreen Sai using F11 to remove the titlebar
+    - In the `sai2.ini` file, set `AvoidWacomBug` to `yes` (`sai2.ini` will be in the same folder as `sai2.exe`)
 - When creating a new canvas, if Sai is not on the primary monitor it may not render the canvas. In this case, switch the window to fullscreen and then back to windowed to re-render the canvas.
 - If you want to skip a few of these steps and you're familiar with Bottles, you may import `sai.yml` and start from there
 
