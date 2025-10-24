@@ -51,6 +51,9 @@ Once the bottle has been created, we need to change the runner.
 
 ## 5. Running Sai
 - Download and extract **Paint Tool Sai 2 64bit** (currently `SAI2 64bit - 2024-08-14 Technical Preview`) from [SYSTEMAX](https://www.systemax.jp/en/sai/devdept.html)
+
+- In Bottles, click the top right `...` menu, `Browse Files...`, create a new folder, and move the extracted Sai 2 files into the new folder
+
 - Click **+ Add Shortcuts...**
 <p align="center">
   <img width="460" src="img/5_add_shortcut.png">
